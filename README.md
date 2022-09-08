@@ -1,4 +1,4 @@
-# simple_dice_game_batch06
+# simple_dice_game
 
 A new Flutter project.
 
